@@ -5,4 +5,3 @@ public class Main {
 // selenium automation code for the
         }
     }
-}
